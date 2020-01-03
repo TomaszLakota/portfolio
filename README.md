@@ -1,4 +1,4 @@
-# My Web Dev Portofolio
+# My Web Dev Portfolio
 
 ## React
 
