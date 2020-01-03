@@ -19,6 +19,9 @@ Work in proggress, due to 6th of January 2020
 ### #5 Secret project 
 In early stages of development
 
+## Angular
+No personal projects yet, but I've been working with Angular for 2 months at my previous work. You can find out more [here](https://www.docdroid.net/Hu8p3o8/scan.pdf)
+
 ## Vanilla JS
 
 ### #1 [Group project] [Multiplayer Chess](https://github.com/jatanski/cc5.Chess)
