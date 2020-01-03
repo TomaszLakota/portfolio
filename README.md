@@ -30,10 +30,10 @@ Hot seat chess app; I've implement logic for one of the pieces and logic and UI 
 ### #2 [Bieszczadzkie marzenie](https://bieszczadzkie-marzenie.pl/)
 Simple page made with bootstrap.
 
-### #2 [Landing page](https://github.com/TomaszLakota/TomaszLakota.github.io)
+### #3 [Landing page](https://github.com/TomaszLakota/TomaszLakota.github.io)
 Simple page developed using HTML5 and CSS3 (used BEM naming convention, but not Sass). Doesn't use any javascript, but uses some cool CSS animations made with transition and animation.
 
-### #3 [A random recruitment task I wrote half a year ago](https://github.com/TomaszLakota/operations-on-2d-array)
+### #4 [A random recruitment task I wrote half a year ago](https://github.com/TomaszLakota/operations-on-2d-array)
 Nothing special really, just using plain JS to solve algorithmic problem; has a nice readme
 
 
