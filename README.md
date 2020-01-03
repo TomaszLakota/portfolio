@@ -27,6 +27,9 @@ No personal projects yet, because I chose to learn React first, but I've been wo
 ### #1 [Group project] [Multiplayer Chess](https://github.com/jatanski/cc5.Chess)
 Hot seat chess app; I've implement logic for one of the pieces and logic and UI for pawn promotion 
 
+### #2 [Bieszczadzkie marzenie](https://bieszczadzkie-marzenie.pl/)
+Simple page made with bootstrap.
+
 ### #2 [Landing page](https://github.com/TomaszLakota/TomaszLakota.github.io)
 Simple page developed using HTML5 and CSS3 (used BEM naming convention, but not Sass). Doesn't use any javascript, but uses some cool CSS animations made with transition and animation.
 
