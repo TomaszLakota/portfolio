@@ -19,7 +19,7 @@ Work in proggress, due to 6th of January 2020
 ### #5 Secret project 
 In early stages of development
 
-## HTML5, CSS3, Vanilla JS
+## Vanilla JS
 
 ### #1 [Group project] [Multiplayer Chess](https://github.com/jatanski/cc5.Chess)
 Hot seat chess app; I've implement logic for one of the pieces and logic and UI for pawn promotion 
